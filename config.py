@@ -1,0 +1,1 @@
+MONGO_URI = "mongodb+srv://JuanTB:Bigsmoke123@cluster0.duizg4q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
